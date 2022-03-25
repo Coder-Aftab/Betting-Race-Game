@@ -1,4 +1,4 @@
-# Turtle-Betting-Race-Game
+# Betting-Race-Game
 Language Used: Python
 Pre Requisites: Python Interpreter
 How to Run the Game:
@@ -8,5 +8,3 @@ How to Run the Game:
 Core module used Tkinter, Turtle.
 Number of Modes: 2 - Day and Night.
 Betting and multiplayer option is also provided.
-
-# Betting-Race-Game
